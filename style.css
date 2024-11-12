@@ -1,0 +1,27 @@
+/* Ensure the row takes the full height of the viewport */
+.intro{
+    background-color: bisque;
+}
+.i{
+    width:px;
+}
+.jobs{
+    border-radius: 50%;
+}
+.skills{
+    background-color: bisque;
+}
+/* Center contents using text alignment */
+.container-fluid {
+    text-align: center; /* Center button horizontally */
+    padding: 20px; /* Optional: Adjust padding as needed */
+    background-color: bisque;
+    
+}
+
+/* Optional: Add spacing above the button */
+.contact .btn {
+    margin-top: 10px; /* Space between heading and button */
+    
+}
+
